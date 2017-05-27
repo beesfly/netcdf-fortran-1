@@ -137,4 +137,3 @@ contains
     end if
   end subroutine check  
 end program simple_xy_par_wr
-
